@@ -1,0 +1,18 @@
+.textCent{
+	text-align: center;
+}
+.bgYellow{
+	background-color: yellow;
+}
+.bgRed{
+	background-color: red;
+}
+.bgBlue{
+	background-color: deepskyblue;
+}
+.bgGreen{
+	background-color: green;
+}
+.shadow{
+	box-shadow: 0 4px 20px 14px rgb(0 0 255 / 10%);
+}
